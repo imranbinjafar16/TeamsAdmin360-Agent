@@ -21,6 +21,44 @@ The agent has been deployed and tested as a co-pilot style agent experience and 
 
 ---
 
+## 🖼️ Project Slides
+
+The following slides summarize the TeamsAdmin360-Agent concept, enterprise problem, solution flow, deployment evidence, capabilities, and value proposition.
+
+### Slide 1: Project Cover
+
+![TeamsAdmin360-Agent cover](assets/slide-01-cover.jpg)
+
+### Slide 2: Project Introduction
+
+![TeamsAdmin360-Agent introduction](assets/slide-02-intro.jpg)
+
+### Slide 3: Teams Administration Challenge
+
+![Teams administration challenge](assets/slide-03-admin-problem.jpg)
+
+### Slide 4: Microsoft Teams App Deployment
+
+![TeamsAdmin360-Agent deployed in Microsoft Teams](assets/slide-04-deployed-teams-app.jpg)
+
+### Slide 5: Solution Flow
+
+![TeamsAdmin360-Agent solution flow](assets/slide-05-solution-flow.jpg)
+
+### Slide 6: Agent Capabilities
+
+![TeamsAdmin360-Agent capabilities](assets/slide-06-capabilities.jpg)
+
+### Slide 7: Why It Wins
+
+![TeamsAdmin360-Agent value proposition](assets/slide-07-why-it-wins.jpg.jpg)
+
+### Slide 8: Final Takeaway
+
+![TeamsAdmin360-Agent takeaway](assets/slide-08-takeaway.jpg)
+
+---
+
 ## 🎯 Why It Matters
 
 Microsoft Teams administrators often need to move between many tools to answer one operational question.
