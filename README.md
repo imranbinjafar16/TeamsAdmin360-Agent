@@ -119,7 +119,7 @@ Safe Final Response to Administrator
 
 ---
 
-## 🧠 Microsoft IQ Integration
+## 🧠 Microsoft Foundry IQ Integration
 
 TeamsAdmin360-Agent uses **Foundry IQ** as the Microsoft IQ intelligence layer.
 
